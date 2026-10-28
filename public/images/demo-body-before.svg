@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="680" viewBox="0 0 600 680">
+      <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8e1d7"/><stop offset="1" stop-color="#d5c8b6"/></linearGradient>
+      <radialGradient id="shape"><stop stop-color="#dbccbb"/><stop offset="1" stop-color="#b9a590" stop-opacity=".4"/></radialGradient>
+      <linearGradient id="line" x2="1" y2="1"><stop stop-color="#8c7b69"/><stop offset="1" stop-color="#eee6d9"/></linearGradient></defs>
+      <rect width="600" height="680" fill="url(#bg)"/><circle cx="505" cy="89" r="210" fill="#fffaf2" opacity=".18"/>
+      <path d="M35 85h530M35 595h530" stroke="#fff8ec" stroke-width=".8" opacity=".45"/>
+      <ellipse cx="300" cy="323" rx="176" ry="245" fill="url(#shape)" transform="rotate(18 300 323)"/>
+  <path d="M275 103c-20 63-17 86-2 119 16 33 17 49 6 77-20 50-56 82-58 127-1 58 20 103 54 147M338 106c-26 59-15 92 0 120 18 34 17 59 3 86-22 43-46 63-48 108-2 61 18 112 45 151" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M204 144c-29 68 7 111-8 167-15 56-67 93-58 157 5 40 21 63 45 91" transform="translate(0 0)" fill="none" stroke="url(#line)" stroke-width=".7" opacity=".28"/><path d="M191 144c-29 68 7 111-8 167-15 56-67 93-58 157 5 40 21 63 45 91" transform="translate(38 5)" fill="none" stroke="url(#line)" stroke-width=".7" opacity=".28"/><path d="M178 144c-29 68 7 111-8 167-15 56-67 93-58 157 5 40 21 63 45 91" transform="translate(76 10)" fill="none" stroke="url(#line)" stroke-width=".7" opacity=".28"/><path d="M165 144c-29 68 7 111-8 167-15 56-67 93-58 157 5 40 21 63 45 91" transform="translate(114 15)" fill="none" stroke="url(#line)" stroke-width=".7" opacity=".28"/><path d="M152 144c-29 68 7 111-8 167-15 56-67 93-58 157 5 40 21 63 45 91" transform="translate(152 20)" fill="none" stroke="url(#line)" stroke-width=".7" opacity=".28"/><path d="M139 144c-29 68 7 111-8 167-15 56-67 93-58 157 5 40 21 63 45 91" transform="translate(190 25)" fill="none" stroke="url(#line)" stroke-width=".7" opacity=".28"/><circle cx="300" cy="603" r="3" fill="#8c7b69" opacity=".6"/>
+    </svg>
